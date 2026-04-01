@@ -1,4 +1,4 @@
-![[attachments/lore-nikkas-letter.png|1000]]
+![[Attachments/lore-nikkas-letter.png|1000]]
 
 As a last effort to avoid mass destruction, the gods sent the Thirteen Warnings, a series of signs meant to deter the kingpriest. Trees wept blood, fires raged unnaturally, and cyclones struck the gleaming Temple of the Kingpriest. The gods also warned a few chosen mortals, reasoning that if any of them reached Istar and prevented the ritual, the world might not be beyond redemption. But the messengers failed—the kingpriest and his followers dismissed the warnings as the work of evil and continued on their path. As the hour of the kingpriest’s ritual to attain godhood arrived, the gods whisked away their most devout followers and unleashed punishment on all who remained.
 
