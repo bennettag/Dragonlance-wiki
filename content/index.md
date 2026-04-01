@@ -1,2 +1,2 @@
-# Dragonlance Wiki
-Welcome to the campaign wiki!
+# Dragonlance Notes and Wiki
+![[Dragonlance Landing Art.png|1400]]
