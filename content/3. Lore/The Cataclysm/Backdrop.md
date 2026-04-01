@@ -1,3 +1,4 @@
+![[Attachments/lore-scholars.png]]
 The world has ended, and it’s ending again.
 
 Three hundred years ago, the Cataclysm brought ruin to the world of Krynn. In a single day, an age of wonders came to an end. Countless innocents died, the face of the world was reshaped, and the gods themselves faded into legend. Through ages of struggle, the peoples of Krynn survived, but the world isn’t what it was. Those nations that remain linger in the shadows of their ancestors’ wonders. Only slowly have they begun to push back centuries of darkness and rediscover how the world has changed. 

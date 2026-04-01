@@ -1,3 +1,4 @@
+![[attachments/lore-rosamund-letter.png|1000]]
 ### Gods of Good
 
 | Gods of Good | Alignment | Province | Symbol |
