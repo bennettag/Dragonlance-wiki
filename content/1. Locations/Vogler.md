@@ -1,1 +1,1 @@
-![[map-vogler.png|1000]]
+![[Attachments/map-vogler.png|1000]]
