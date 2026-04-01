@@ -1,4 +1,4 @@
-The Cataclysm ushered in a period of chaos. During the next three centuries, known as the Time of Darkness, cultures and ecologies were radically altered, causing famine, plague, and mass migrations. The Knights of Solamnia, the champions who might’ve kept Ansalon united, were distrusted as former allies of Istar and persecuted across the continent, even in Solamnia.
+The Cataclysm ushered in a period of chaos. During the next three centuries, known as the Time of Darkness, cultures and ecologies were radically altered, causing famine, plague, and mass migrations. The [[Knights of Solamnia]], the champions who might’ve kept Ansalon united, were distrusted as former allies of Istar and persecuted across the continent, even in Solamnia.
 
 The elven nations shut their borders. The dwarves of Thorbardin withdrew to their deep tunnels, refusing entrance to refugees from the surface. Many societies turned on one another or fell to disease and war. Nations of hobgoblins and ogres spread, capitalizing on humanity’s decline and claiming whole regions. Much that survived the Cataclysm was lost in darkness.
 

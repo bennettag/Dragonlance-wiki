@@ -1,2 +1,2 @@
 - The first, largest, and most powerful of Takhisis’s forces.
-- Commanded by the fanatical Dragon Highlord Verminaard
+- Commanded by the fanatical Dragon Highlord [[Verminaard]]

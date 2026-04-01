@@ -1,1 +1,1 @@
-Dragon Highlord of the Red Dragon Army
+Dragon Highlord of [[The Red Dragon Army]]

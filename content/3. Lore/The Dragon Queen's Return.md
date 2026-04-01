@@ -1,4 +1,4 @@
-Even as Ansalon healed, a new threat grew. The Dragon Queen Takhisis—was banished from Krynn over a thousand years ago. Since then, she has been waiting patiently, plotting her return. 
+Even as [[Ansalon]] healed, a new threat grew. The Dragon Queen [[Takhisis]]—was banished from Krynn over a thousand years ago. Since then, she has been waiting patiently, plotting her return. 
 
 Missing pages torn here.... 
 
