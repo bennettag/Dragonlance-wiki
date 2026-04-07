@@ -1,1 +1,1 @@
-![[Journeyboard (RAW, ignore)|1000]]
+![[4. Notes/Journeyboard/Journeyboard (RAW, ignore)|1000]]
