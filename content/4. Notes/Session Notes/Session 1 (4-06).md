@@ -1,8 +1,7 @@
 - Party is relaxing at the Brass Crab when a woman (Audrey Attison) says her son is missing.
 - We venture out to the farm and find him, shaking and scared. He says something is wrong
-- We pursue further to the sound of a battle, and witness the aftermath of monstrous creatures ambushing Knights of Solomnia
-- The leader (red) leaves, and the party defeats the remaning forces.
-- We deduce the creatures are Draconians
-	- Lore: Draconians are spawned by warping and mutating metallic dragon eggs. Legends say chromatic dragons would steal chromatic eggs and turn them into these creatures
+- We pursue further to the sound of a battle, and witness the aftermath of monstrous creatures ambushing [[Knights of Solamnia]]
+- The leader (red creature) leaves, and the party defeats the remaining forces.
+- We deduce the creatures are [[Draconians]] based on [[Ispin Greenshield]]'s stories.
 -  The knights (dead) were here to escort the wagon to the festival. No other obvious deeper notes or reason why they would've been attacked.
 - We agree to deliver this news back to [[Becklin Uth Viharin]].
