@@ -1,0 +1,1 @@
+Deceased master storytelling human adventurer

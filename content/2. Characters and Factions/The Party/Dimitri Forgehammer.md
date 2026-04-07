@@ -1,0 +1,1 @@
+We know he took on a clericship, but we don't know why he quit. We know not to ask.

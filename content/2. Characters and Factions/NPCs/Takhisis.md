@@ -1,1 +1,1 @@
-Dragon Queen
+Takhisis (ta-KEE-sis) - The Dragon Queen

@@ -1,4 +1,9 @@
 ![[Attachments/lore-rosamund-letter.png|1000]]
+
+The gods of Krynn are said to have abandoned the world, and in the great cities of [[Ansalon]], temples and centers of faith are few. Nevertheless, small miracles occur across the world. Druids and hidden communities offer prayers in the old ways and employ mysterious magic. Long-lived peoples remember the worship of the gods and see their shapes in nature and the constellations above. Ancient, forgotten sanctuaries hold wonders beyond imagination, and divine whispers reach those with the minds and hearts to listen. The gods haven’t wholly abandoned Krynn, and as threats grow, mortals turn to them once more—sometimes after a remarkable encounter with a messenger of the gods. 
+
+The gods of Krynn loosely align with one another along the principles of good, neutrality, and evil. While such alliances can be tenuous, the gods often work together to enact their shared will across the world or to oppose unions of their foes. The Deities of Krynn table and the following sections summarize the gods most active in the world. Among Krynn’s diverse lands and peoples, gods take various names, genders, and forms. Those presented in the following sections are the representations best known in Solamnia.
+
 ### Gods of Good
 
 | Gods of Good | Alignment | Province | Symbol |
