@@ -1,36 +1,36 @@
-![[Attachments/token-gregor-fairmount.png]]
+![[token-Gregor-Fairmount.png]]
 #### **Summary**
 
-Gregor is a twenty-six year old squire at Thornwall Keep, late to the path but earnest about it in a way that is either admirable or exhausting depending on who you ask. He is the son of a one-handed Solamnic knight from a small farming village, raised on old codes and good intentions, and he carries both like a second set of armor. He is strong, dependable, and genuinely kind. He is also impulsive, easy to manipulate, and too certain of his own gut for his own good. He wants to be good the way his father taught him to be good, and he has not yet learned that wanting it badly enough is not the same as doing it right. The war is coming and Gregor is quicker to speak of the glory of  battles to come than the loss that accompanies them.
+Gregor is a twenty-six year old squire at Thornwall Keep, late to the path but earnest about it in a way that is either admirable or exhausting depending on who you ask. He is the son of a one-handed Solamnic knight from a small farming village, raised on old codes and good intentions. He is strong, dependable, and genuinely kind. He is also impulsive, easy to manipulate, and too certain of his own gut for his own good. He wants to be good the way his father taught him to be good, and he has not yet learned that wanting it badly enough is not the same as doing it right. The war is coming and Gregor is quicker to speak of the glory of  battles to come than the loss that accompanies them.
 
-#### **Family** and Upbringing
+#### Family
+Gregor Fairmount, the Elder: Gregor's father and former Solamnic knight who lost his sword hand in service and came home without complaint. Firm, fair, and honorable to his core. He taught Gregor the codes not as rules but as a way of moving through the world.
 
-His father, Gregor "Brightbrow" Fairmount, is a former Solamnic knight who lost his sword hand in service and came home to farm without complaint. He is the most honorable man Gregor has ever known, firm and fair and always pointing toward something better than himself. His mother Sera is warm and steady, the kind of woman who made their modest home in Millhaven feel like the safest place in the world. Gregor's parents still reside in Millhaven tending to modest crops and a quiet life. Gregor visits regularly to help around the small land they have and assist his father in places where two hands are needed. He is an only child. His family name ends with him if he does not carry it well.
+Sera Fairmount: Gregor's Mother Warm, unhurried, and quietly wise. She put books in Gregor's hands when he was young and never once told him to put them down. She is ill now, something in her lungs that has not shifted. She is the softer half of everything Gregor believes in.
 
-Gregor grew up on stories. Not just his father's firsthand accounts, but the written kind, histories of legendary knights, chronicles of famous battles, dramatic retellings of the great heroes of Solamnia. He read everything he could get his hands on, which in a small farming village was not much, but he wore out what he had. He often steps into roles from these stories when playing with village kids, or even when sparring if he's particularly excited.
+#### Ally: Theron Greywater
+Retired captain, weathered and spry, with deep pockets he has no interest in spending. He fishes the Vogler waterfront most days and keeps mostly to himself, though he has always had time for Gregor.
 
-#### **How He Got to Vogler**
+It started at the wharf during Gregor's hauling days. Theron would come in with something strange on the line, a fish nobody could name or a net full of something that had no business being in that river, and Gregor was always the one who stopped to ask about it. That seemed to be enough to earn a kind of quiet fondness from the old captain. Gregor started bringing him a spiced dark drink from the local tavern whenever his boat came in. Corvus never asked for it but he always accepted it warmly, and once it was in his hand he would talk. A strange catch, a rumor from two towns over, a story from somewhere he had never quite named.
 
-Millhaven is less than a day's ride from Vogler. Gregor came to town several years ago, before any formal squiring arrangement was in place, and spent his first years hauling at the wharf and making deliveries throughout the town. His father pushed him toward squiring long before he took it up, but Gregor felt the farm needed him, that his parents needed him, and he stayed close until he didn't feel he could anymore. With war on the horizon and his father's legacy sitting heavier than usual, he finally took up the arrangement at Thornwall Keep. He is aware that most squires are younger, but his youthful disposition puts him at home with other bright eyed squires. 
+He deals in cryptic wisdom the way other men deal in coin. He once told Gregor that "the fish that fights the current longest is the one that never reaches the sea," and another time, unprompted, that "a sword knows nothing of the hand that swings it, but the hand knows everything." Gregor nodded slowly at both of these as though they had landed somewhere meaningful. He is still working out where exactly.
 
-**People He Carries With Him**
+There is something steadying about Theron underneath it all, a warmth that does not announce itself but is always present. Gregor is fairly certain the old captain looks out for him in ways he has never made explicit. He appreciates that more than he has ever said out loud. Theron also promised him a ride on his ship one day, offhandedly, the way people sometimes do. Gregor has not forgotten and hopes to collect some day.
 
-Oswin Barrek is the quartermaster at Thornwall Keep, old as the keep itself, short and blunt and not a man who wastes warmth on people he does not mean it for. He was friends with Gregor's father long before he was born. He loans training swords without a fuss and watches Gregor's sparring lessons with the village children from the doorway with a look he would never in a thousand years call pride.
+#### Ally: Marrek Huddlefoot
+A wandering halfling merchant who passed through Vogler regularly for years, always with news from somewhere farther afield and a friendly word for everyone. He was a familiar and welcome face in a village that did not get many of those. Hard to miss too, on account of the bright red hair, which on a halfling of his stature had a way of announcing him before he rounded the corner.
 
-Marrek Huddlefoot was a wandering merchant who passed through Millhaven regularly for years, always with news from somewhere farther afield and a friendly word for everyone. One day he came through looking shaken, said he had heard things on the eastern roads he could not name, sounds from creatures he had not seen but did not want to. A few weeks later he was gone, said he was off on an adventure of his own. Gregor hopes that is true. He hopes they cross paths again.
+He came from a family with a reputation for magic, or so the story went. Marrek himself never showed much sign of it. He was cheerful and gregarious and thoroughly, almost proudly, ordinary. If it bothered him he never let on. He seemed perfectly content moving from village to village with his cart and his stories, leaving people in better spirits than he found them.
 
-#### **The Moment That Made Him**
+One day he came through looking different. Something shaken loose in him that he was not quite hiding. He said he had been on the eastern roads and heard things he could not name, sounds from creatures he had not seen but did not want to. He did not linger long that visit. A few weeks later word came that he had packed up entirely and left, telling anyone who would listen that he was heading off on an adventure of his own.
 
-He was twelve. Riding back from a neighboring village with his father when they heard shouting from the tree line. Two men were beating a third into the dirt over an unpaid debt. His father dismounted without a word. His father took a hit across the jaw, did not go down, and put both men on the ground with the quiet efficiency of someone who has done harder things.
+Gregor has always wondered about that. Whether it was genuine wanderlust or whether whatever he heard on that eastern road had scared him badly enough to run toward anything that felt like a choice. He hopes they cross paths again. Marrek was the kind of person who made the world feel a little larger just by showing up in it.
 
-Then he walked over to the beaten man and knelt in the mud beside him. He tore strips from his own riding cloak and bound what he could, loaded the man onto his own horse, and rode to the next village at a walk. Found his family. Stayed long enough to see him settled, then bought them a meal at the inn before they left. Nobody thanked them in any grand way. They rode home in the dark.
+#### Rival: Vessa Drayne
+Landowner, council member, sharp tongued and well connected, and about as fond of the Solamnic order as a cat is of water. She operates through rumor, social pressure, and bureaucratic obstruction. Nothing she does is technically dishonorable. That is precisely what makes her so infuriating.
 
-Gregor asked eventually: "Why did we stay? We could have left him at the village edge."
+A few years back she fed Gregor a convincing story about a local shopkeeper, documentation, witness names, dates, all of it looking legitimate. He hauled the man out of his shop in front of the entire market, hands bound, in full view of his customers and neighbors. By the time the matter was sorted and the charges dropped, the shop had been ransacked and cleaned out. Gregor could not prove who did it. He could not prove Vessa had engineered any of it. But the shape of it was unmistakable. She had used him as a distraction and he had been too eager and too certain to notice.
 
-His father rode a few more strides before answering. "The sword gets them to their feet. The road gets them home. A knight who sheathes his blade and rides away has only done half the work." Then, quieter: "Anyone can fight, son. Not everyone can carry someone after."
+He apologized to the man. He meant it. It was not enough.
 
-#### **What Drives Him and What He Fears**
-
-He wants to be good. Truly and simply good, the way his father taught him. To be worthy of the name, worthy of the codes, worthy of the look on his mother's face when she talks about his father's service. He has not examined this closely enough to notice that good and right are not always the same thing, or that a man who acts on feeling alone can do real damage with the best of intentions.
-
-What he fears most is not death. It is disgrace. His family name ending not on a battlefield but in quiet, devastating disappointment on his father's face.
+Gregor cannot fight Vessa with a sword. She does not operate in that world. She is smarter than him in the ways that particular fight requires, and they both know it.

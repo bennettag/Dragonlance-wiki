@@ -3,5 +3,7 @@
 - We pursue further to the sound of a battle, and witness the aftermath of monstrous creatures ambushing [[Knights of Solamnia]]
 - The leader (red creature) leaves, and the party defeats the remaining forces.
 - We deduce the creatures are [[Draconians]] based on [[Ispin Greenshield]]'s stories.
--  The knights (dead) were here to escort the wagon to the festival. No other obvious deeper notes or reason why they would've been attacked.
+- The knights (dead) were here to escort the wagon to the [[Vogler]] for the Kingfisher festival. No other obvious reason why they would've been attacked.
 - We agree to deliver this news back to [[Becklin Uth Viharin]].
+
+![[art-draconian-ambush.png|1000]]

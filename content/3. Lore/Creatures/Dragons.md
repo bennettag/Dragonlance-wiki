@@ -1,0 +1,1 @@
+Almost all Dragons have been lost to time and retreated with the gods. The instance of the [[Draconians]] begs one to wonder if the metallic dragons have returned just as [[Takhisis]] has. 

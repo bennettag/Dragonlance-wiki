@@ -1,2 +1,2 @@
 # Dragonlance Notes and Wiki
-![[Art-Dragonlance-Landing.png|1400]]
+![[art-Dragonlance-Landing.png|1400]]
