@@ -11,3 +11,9 @@ Homebrew content with review is available
 **Short Rests**: Requires 10 minutes of resting. You regain 1/2 your max hp (and any class resources). Max 2 per long rest.
 
 **Inspiration:** Earned through roleplay rather than starting the session with it.
+
+
+#### Dragonlance Combat
+
+- Battlefield actions will happen, usually at the top of the round. Kind of like environmental
+- The Fray - if you enter the fray, a lot of things can happen: trampled by a horse, arrow shot, dragonfire, etc. You can even push enemies into the fray as well.

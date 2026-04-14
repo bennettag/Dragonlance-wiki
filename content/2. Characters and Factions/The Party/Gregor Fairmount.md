@@ -34,3 +34,8 @@ A few years back she fed Gregor a convincing story about a local shopkeeper, doc
 He apologized to the man. He meant it. It was not enough.
 
 Gregor cannot fight Vessa with a sword. She does not operate in that world. She is smarter than him in the ways that particular fight requires, and they both know it.
+
+#### Connections: [[Davran Raes'Vir]]
+
+Missus Morvandra - Gregor has taken to giving 'sparing lessons' for some of the kids around town, including some from the orphanage. While these are more play than real lessons, he still gets real training swords from the keep's quartermaster. Some of the kids have gotten a few more bruises than expected, to which Morvandra was less than pleased about. It doesn't help that Morvandra is often given a satirically villainous role: Morvandra the Destroyer, Morvandra the Undying, of even Morvandra the Demon Queen.
+
