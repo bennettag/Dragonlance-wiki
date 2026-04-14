@@ -52,4 +52,4 @@
 	- There is energy in the air, albeit for a faux reenactment
 	- Black cloaked figures emerge on the sidelines, the sheen of steel barely visible under the half-ogre's cloth
 	- Suddenly the battlefield is filled with blood and screams. People are being attacked for real.
-	- The crowd is unaware, believing it is still real
+	- The crowd is unaware, believing it is just a reenactment
