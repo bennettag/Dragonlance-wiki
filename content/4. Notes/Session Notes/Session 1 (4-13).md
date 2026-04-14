@@ -14,7 +14,7 @@
 	- Missus Morvandra and the kids from the orphanage.
 	- High roll note: Blue skinned elf - She is huddled in the back, watching the room. Dressed simply.
 - Gregor and Asher sit with Becklin
-	- Darit asking about the reenactment of the betrayal at high hill tomorrow, but is then hushed and asked to leave
+	- Darret asking about the reenactment of the battle at high hill tomorrow, but is then hushed and asked to leave
 	- Gregor asks about proving himself and about he and Asher's prospects as knights
 	- Asher asks about how we can help
 	- Becklin is clear: Do not act alone, get help if needed. No other work at this time. Its a time of celebration. We don't need a panic
@@ -50,6 +50,6 @@
 	- This mock battle reenacts the Solamnic knights victory over Istar. Historically led by Sir Vogler
 	- Vogler's militia (kind of mundane and measely) vs Cudgel's Ironclad mercenary group (strong and tall + half-ogre guy)
 	- There is energy in the air, albeit for a faux reenactment
-	- Black cloaked figures emerge on the sidelines, the sheen of steel barely visible under the half-ogre's cloth
-	- Suddenly the battlefield is filled with blood and screams. People are being attacked for real.
-	- The crowd is unaware, believing it is just a reenactment
+	- Black cloaked figures, we recognize as draconians, emerge on a nearby cliff side. The sheen of steel becomes barely visible under the half-ogre's cloth
+	- Suddenly the battlefield is filled with blood and screams. People are being actually attacked and killed.
+	- The crowd is unaware, believing it is just a reenactment.
