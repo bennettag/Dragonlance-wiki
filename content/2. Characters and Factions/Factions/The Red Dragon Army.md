@@ -1,2 +1,4 @@
 - The first, largest, and most powerful of Takhisis’s forces.
 - Commanded by the fanatical Dragon Highlord [[Verminaard]]
+- In [[Session 2 (4-20)]] Jeyev recounts that the army had thousands. A red dragon, machines of fire.
+- 

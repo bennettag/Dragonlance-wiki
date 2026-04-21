@@ -8,13 +8,13 @@
 		- picture of snobbish nobility
 	- Mayor Raven - moving among the crowd tending to everyone
 	- Theron Greywater - Serving tables
-	- Gustav Braddendorf - Sitting at his familes table with Hilda
+	- Gustav Braddendorf - Sitting at his family's table with Hilda
 	- Horatio Amberthrift sitting with Ortan
 	- The Owyn family sitting at a table - bomb carrot cake
 	- Missus Morvandra and the kids from the orphanage.
 	- High roll note: Blue skinned elf - She is huddled in the back, watching the room. Dressed simply.
 - Gregor and Asher sit with Becklin
-	- Darret asking about the reenactment of the battle at high hill tomorrow, but is then hushed and asked to leave
+	- Darit asking about the reenactment of the battle at high hill tomorrow, but is then hushed and asked to leave
 	- Gregor asks about proving himself and about he and Asher's prospects as knights
 	- Asher asks about how we can help
 	- Becklin is clear: Do not act alone, get help if needed. No other work at this time. Its a time of celebration. We don't need a panic
