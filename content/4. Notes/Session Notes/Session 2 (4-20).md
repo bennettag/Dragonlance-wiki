@@ -32,5 +32,5 @@
 	 - First, we will ambush the cliffside to eliminate any scouts that may be there.
  - Becklin's final request - need emergency evacuation plan or signal in case our ambush fails.
 	 - Mayor Raven - Should the city bell ring, we will all evacuate immediately.
- - Thrann - open the box on top of the crenelation for some experimental landing devices. Pull the back lever, not the red of blue. DO NOT pull the blue lever.
+ - Thrann - open the box on top of the crenelation for some experimental landing devices. Pull the black lever, not the red of blue. DO NOT pull the blue lever.
  - Becklin - there is a gift in her quarters for Darrit in a blue case?

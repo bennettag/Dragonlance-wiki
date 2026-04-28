@@ -41,3 +41,4 @@ Missus Morvandra - Gregor has taken to giving 'sparing lessons' for some of the 
 
 #### Referenced Knights
 - Sir Lorrick Lorwynn - Famous archer knight
+- Sir Agganar Grandaldan - Held the line
