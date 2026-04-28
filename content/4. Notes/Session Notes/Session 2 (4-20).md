@@ -14,7 +14,7 @@
 ![[art-jeyev-veldrews.png|200]]
 - Riders from the north arrive, led by Jeyev
 	- Jeyev announces - the camp was been sacked by Gragonis
-	- Jeyev did some scouting after hearing some sounds off in the West. Its an army... [[The Red Dragon Army]].
+	- Jeyev did some scouting after hearing some sounds off in the West. Its an army... [[Red Dragon Army]].
 
 #### Emergency Town Meeting
 - [[Becklin Uth Viharin]] fears the [[War of the Lance]] is upon us again.
