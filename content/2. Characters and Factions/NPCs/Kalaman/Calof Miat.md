@@ -1,0 +1,2 @@
+- Governor of Kalaman
+- Though he holds the formal position of Governor, its clear his voice doesn't carry much weight on the council, at least in the shadow of [[Alexandra Nightvane]].

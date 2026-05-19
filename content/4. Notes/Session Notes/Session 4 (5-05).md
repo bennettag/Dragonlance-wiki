@@ -2,7 +2,7 @@
 - Phallanx set up around the city as a forward line of defense
 - Evacuation procedures in full panic as [[draconians]] emerge and descend downards
 - Fighting erupts in the town
-- #### Clearing the streets
+#### Clearing the streets
 - Encounter a Kapak Draconian
  ![[art-Kapak Draconian.jpeg|300]]
 - Red draconian appears and attacks. We fight off some draconians while helping civilians flee

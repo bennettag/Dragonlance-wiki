@@ -1,0 +1,2 @@
+- Head of the Mason's Guild
+- In [[Session 5 (5-18)]] we witness him potentially magically communicating something when he hears the name of [[Kansaldi]] in the council meeting.

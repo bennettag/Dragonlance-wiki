@@ -5,8 +5,8 @@ Draconians are spawned by warping and mutating metallic dragon eggs. Legends say
 ![[art-draconian-ambush.png|1000]]
 
 **Baaz draconian**
-- Grunt. Poison Gas on death that can paralyze?
+- Black/Gray. Grunt. Poison Gas on death that can paralyze?
 **Kapak Draconian**
-- Swooping ambush, poison attack. Acid explosion on death. 
+- Red. Swooping ambush, poison attack. Acid explosion on death. 
 **Bozak Draconian**
 - Lightning explosion on death.

@@ -1,0 +1,2 @@
+- Commander of Kalaman's military
+- In [[Session 5 (5-18)]] she invites the party to meet with her at Castle Kalaman.

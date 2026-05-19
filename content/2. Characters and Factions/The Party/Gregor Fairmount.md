@@ -4,7 +4,7 @@
 Gregor is a twenty-six year old squire at Thornwall Keep, late to the path but earnest about it in a way that is either admirable or exhausting depending on who you ask. He is the son of a one-handed Solamnic knight from a small farming village, raised on old codes and good intentions. He is strong, dependable, and genuinely kind. He is also impulsive, easy to manipulate, and too certain of his own gut for his own good. He wants to be good the way his father taught him to be good, and he has not yet learned that wanting it badly enough is not the same as doing it right. The war is coming and Gregor is quicker to speak of the glory of  battles to come than the loss that accompanies them.
 
 #### Family
-Gregor Fairmount, the Elder: Gregor's father and former Solamnic knight who lost his sword hand in service and came home without complaint. Firm, fair, and honorable to his core. He taught Gregor the codes not as rules but as a way of moving through the world.
+Gregor Fairmount, the Elder: Gregor's father and former Solamnic knight who lost his sword hand in service and came home without complaint. Firm, fair, and honorable to his core. He taught Gregor the codes not as rules but as a way of moving through the world. Fought in the 
 
 Sera Fairmount: Gregor's Mother Warm, unhurried, and quietly wise. She put books in Gregor's hands when he was young and never once told him to put them down. She is ill now, something in her lungs that has not shifted. She is the softer half of everything Gregor believes in.
 
@@ -42,3 +42,4 @@ Missus Morvandra - Gregor has taken to giving 'sparing lessons' for some of the 
 #### Referenced Knights
 - Sir Lorrick Lorwynn - Famous archer knight
 - Sir Agganar Grandaldan - Held the line
+- Sir Grend

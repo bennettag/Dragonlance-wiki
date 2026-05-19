@@ -1,0 +1,3 @@
+- Head of the Cartographer's Guild in Kalaman
+- Appears to carry the most weight in the council meetings at the Hall of Lords
+- In [[Session 5 (5-18)]] she invites us to meet with her for dinner to give a more personal account of the events in Vogler.
