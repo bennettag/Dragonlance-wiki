@@ -1,0 +1,4 @@
+- Knight Colors:
+	- Rose: Silver and white
+	- Sword: Brown and white
+	- Crown: Deep blue and white

@@ -21,8 +21,8 @@
 	- [[Renold Costwyn]]
 	- [[Sigmund Pross]]
 - During Mayor Raven's recounting of events, Uri's eyes are stirring, as if his mind is racing.
-	- At Kansaldi's name being mentioned, Uri's eyes shift. Dimitri gets the sense that some information was just sent somewhere in the city.
 - Davran asks the council what they know about [[Kansaldi]]. During this time, the whole room is filled with chaotic whispers.
+	- At Kansaldi's name being mentioned, Uri's eyes shift. Dimitri gets the sense that some information was just sent somewhere in the city.
 - The council is overall not very receptive to the warnings of the mayor or the party.
 	- Calof - happy to house, feed, and register town members, but doesn't want to overreact to "lizards"
 	- Sigmund - eagerly suggests putting together a fighting force to eliminate the army
@@ -36,4 +36,4 @@
 - We talk afterwards about finding the "Benebog" of Kalaman to gain the council or even the general people's trust.
 - Also suggest figuring out how to make council members invested in the cause.
 - We have a dinner offer from [[Alexandra Nightvane]]
-- [[Marshal Nestra Vendri]] asks us to meet her at Castle Kalaman soon
+- [[Marshal Nestra Vendri]] asks us to meet her in her quarters Castle Kalaman soon to discuss war / army type things

@@ -1,0 +1,1 @@
+Enhances the abilities of someone's smithing capabilities
