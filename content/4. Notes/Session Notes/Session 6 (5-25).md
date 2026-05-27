@@ -22,7 +22,7 @@
 - Back at the castle, we receive a wax pressed letter from Nightvane, an invitation for dinner at night.
 - 
 #### Hammerstrike Forges
-- Cadmos Hammerstrike - specializes in Armor, Tyra Hammerstrike - specializes in weapons
+- Cadmos Hammerstrike - specializes in Armor, Tiria Hammerstrike - specializes in weapons
 	- They fiercely debate each other's superiority (armor vs weapon)
 	- Whoever could find the [[Amulet of Reorx]] could settle this debate
 - Significant stuff
