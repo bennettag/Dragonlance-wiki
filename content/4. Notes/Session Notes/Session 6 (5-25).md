@@ -20,7 +20,6 @@
 	- Nestra is suspicious of Nightvane. Says she is neither friend nor foe.
 
 - Back at the castle, we receive a wax pressed letter from Nightvane, an invitation for dinner at night.
-- 
 #### Hammerstrike Forges
 - Cadmos Hammerstrike - specializes in Armor, Tiria Hammerstrike - specializes in weapons
 	- They fiercely debate each other's superiority (armor vs weapon)

@@ -43,4 +43,3 @@ Missus Morvandra - Gregor has taken to giving 'sparing lessons' for some of the 
 - Sir Lorrick Lorwynn - Famous archer knight
 - Sir Agganar Grandaldan - Held the line
 - Sir Brandt Kensington - Coined the Crescent Slash, cut down an entire troop of orcs to break the blackburrow's army formation
-- Lady 

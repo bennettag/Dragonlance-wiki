@@ -5,4 +5,4 @@ Updates automatically with lore of nearby knights.
 Things in the book:
 - Could be within 10 miles
 - Could be in the book for other reasons
-- We know that as deeds are done as people perish, the book updates
+- We know that as deeds are done and as people perish, the book updates

@@ -1,6 +1,6 @@
 #### Defending Vogler
 - Phallanx set up around the city as a forward line of defense
-- Evacuation procedures in full panic as [[draconians]] emerge and descend downards
+- Evacuation procedures in full panic as [[Draconians]] emerge and descend downards
 - Fighting erupts in the town
 #### Clearing the streets
 - Encounter a Kapak Draconian
