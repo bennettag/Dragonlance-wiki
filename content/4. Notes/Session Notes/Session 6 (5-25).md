@@ -10,8 +10,8 @@
 		- In the last 6 weeks, 3 of 4 of her patrols have been ambushed (only council and staff knew about)
 		- Wyhan's Apothecary has been purchasing supplies they might not need (suspicious)
 			- Wyhan is a Black Robe of the high mage society. Tests apprentices if they are worthy.
-		- The Fire Fisher's are a group of dockworkers under Oflyn's command
-		- Greyfeather, aka 'the courier'. Pigeons travel to Oflyn and Wyhan. 
+		- The [[Fire Fishers]] are a group of dockworkers under Oflyn's command
+		- [[Greyfeather]], aka 'the courier'. Pigeons travel to Oflyn and Wyhan. 
 		- A courier named thomas sent to Castle Vingaard never returned. His sister, Rina (Rin), in the hall of records may be a good place to investigate.
 	- Council may be trying to swing a vote (aided by Bakaris) to do.....?
 	- She asks: Find who is feeding information to the Dragon Army. We don't want them dead, just known. Bring any information to the Beacon asap. Only send word through Jesen.

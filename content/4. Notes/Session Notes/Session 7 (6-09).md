@@ -35,13 +35,4 @@ Alexandra offers alliance. She has reach the Governor and [[Marshal Nestra Vendr
 He also swipes a stack of papers. Key finds:
 - **Crate markings:** "Tinkers Row Consignment" with a stylized C; accompanied by a reagent list
 - **Intercepted note:** *"The eastern patrol window is confirmed, second bell to fourth, River Gate, three guards not four as previously reported. The offering stands. When the standard is raised we will be ready. V. trusts nothing. Keep the channels clean. Burn this."*
-- **Coded pigeon message:** *"Masked rider to the north. Greyfeather's pigeon went missing. O is concerned, are we still set for the plan?"*
-
-**Flags pointing toward action:**
-- Wheelbarrow ties this location to Wyhan's Apothecary
-- Foreign voice openly discussing betrayal of Kalaman's gate schedules
-- A figure spotted carrying an oil-soaked wrapped item, possibly incendiary
-- Sailors on watch, visibly hostile to observers
-- Greyfeather's pigeons route through here; workers who complained about him went missing
-- Late-night lights and active operations, something is being prepared
-- Multiple entry points (crane, water, windows, doors)
+- **Coded pigeon message:** *"Masked rider to the north. [[Greyfeather]]'s pigeon went missing. O is concerned, are we still set for the plan?"*
