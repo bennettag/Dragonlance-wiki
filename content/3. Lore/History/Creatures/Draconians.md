@@ -13,4 +13,4 @@ Draconians are spawned by warping and mutating metallic dragon eggs. Legends say
 **Sivak Draconian**
 - Silver-scaled. Larger and more dangerous than other known types. Fights with twin scimitars and a lashing tail.
 - Shapeshifters: they copy the form of the last humanoid they kill, and can hold the disguise indefinitely.
-- The sivak "Agent Vethrak" killed and replaced [[Oflyn Vinhollow]], operating as him on the [[Kalaman]] city council for at least four months before being discovered and killed by the party ([[Session 8 (6-15)|Session 8]])
+- The sivak "Agent Vethrak" killed and replaced [[Oflyn Vinhollow]], operating as him on the [[Kalaman]] city council for at least four months before being discovered and killed by the party ([[content/4. Notes/Session Notes/Session 8 (6-15)|Session 8]])

@@ -10,8 +10,8 @@ The city council's chambers, where the six guild heads govern Kalaman's affairs.
 #### The Steady Beacon
 A tavern similar in size to Vogler's Brass Crab. Run by [[Jesen Thold]], who serves as [[Marshal Nestra Vendri]]'s private message relay.
 - Nestra briefed the party here on the spy threat within Kalaman and tasked them with identifying who is feeding intelligence to the Dragon Army ([[Session 6 (5-25)|Session 6]])
-- The party brought the captured courier [[Greyfeather]] here for interrogation, where he revealed the plot to sack the city ([[Session 8 (6-15)|Session 8]])
-- Jesen mentioned that someone [[Gregor Fairmount]] would want to meet has been staying at the Beacon ([[Session 8 (6-15)|Session 8]])
+- The party brought the captured courier [[Greyfeather]] here for interrogation, where he revealed the plot to sack the city ([[content/4. Notes/Session Notes/Session 8 (6-15)|Session 8]])
+- Jesen mentioned that someone [[Gregor Fairmount]] would want to meet has been staying at the Beacon ([[content/4. Notes/Session Notes/Session 8 (6-15)|Session 8]])
 
 #### Nightvane Estate
 [[Alexandra Nightvane]]'s home, its halls lined with maps — the collected work of her family's cartography.
@@ -25,11 +25,11 @@ A tavern similar in size to Vogler's Brass Crab. Run by [[Jesen Thold]], who ser
 #### The Docks
 Kalaman's harbor district, controlled largely by [[Oflyn Vinhollow]]'s dockworkers.
 - The party scouted a suspicious dockside building at night — lights on, a crane, pigeons, and sounds of water suggesting an interior dock. [[Asher Owyn]] intercepted a pigeon message and overheard a conversation about changing gate schedules when the Highlord's column arrives ([[Session 7 (6-09)|Session 7]])
-- The party breached the dockhouse and caught the [[Fire Fishers]] crating Boilerdrak components stamped with the red dragon insignia ([[Session 8 (6-15)|Session 8]])
+- The party breached the dockhouse and caught the [[Fire Fishers]] crating Boilerdrak components stamped with the red dragon insignia ([[content/4. Notes/Session Notes/Session 8 (6-15)|Session 8]])
 
 #### Tinker's Row (39 Tinker's Row)
 A warehouse used as a secondary staging point for the Dragon Army's infiltration operation.
-- In the basement, the party found [[Oflyn Vinhollow]]'s true corpse and overheard [[Wyhan]] negotiating with the sivak [[Draconians|draconian]] impersonating Oflyn ([[Session 8 (6-15)|Session 8]])
+- In the basement, the party found [[Oflyn Vinhollow]]'s true corpse and overheard [[Wyhan]] negotiating with the sivak [[Draconians|draconian]] impersonating Oflyn ([[content/4. Notes/Session Notes/Session 8 (6-15)|Session 8]])
 - The room contained accelerant fire bombs, a draconic bestiary on sivak draconians, patrol route maps with River Gate circled, and a correspondence ledger spanning four months of the sivak's operation ([[Session 8 (Downtime)|Session 8 Downtime]])
 
 #### Hammerstrike Forges
