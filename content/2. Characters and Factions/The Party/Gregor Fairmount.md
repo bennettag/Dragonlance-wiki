@@ -3,6 +3,8 @@
 
 Gregor is a twenty-six year old squire at Thornwall Keep, late to the path but earnest about it in a way that is either admirable or exhausting depending on who you ask. He is the son of a one-handed Solamnic knight from a small farming village, raised on old codes and good intentions. He is strong, dependable, and genuinely kind. He is also impulsive, easy to manipulate, and too certain of his own gut for his own good. He wants to be good the way his father taught him to be good, and he has not yet learned that wanting it badly enough is not the same as doing it right. The war is coming and Gregor is quicker to speak of the glory of  battles to come than the loss that accompanies them.
 
+**As of [[Session 10 (7-27)|Session 10]], Gregor has been knighted a Knight of the Crown** — the first rung of the order his father served.
+
 #### Family
 Gregor Fairmount, the Elder: Gregor's father and former Solamnic knight who lost his sword hand in service and came home without complaint. Firm, fair, and honorable to his core. He taught Gregor the codes not as rules but as a way of moving through the world. Fought in the 
 

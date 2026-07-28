@@ -29,6 +29,9 @@ Vessa's husband. Willing to make a scene when it serves the family's interests.
 - Attended [[Ispin Greenshield|Ispin]]'s reception at the Brass Crab ([[Session 1 (4-13)|Session 1]])
 - Challenged the evacuation plan at the village circle meeting alongside his son ([[Session 3 (4-27)|Session 3]])
 - Disembarked quickly at [[Kalaman]] and disappeared into the city with the family ([[Session 5 (5-18)|Session 5]])
+- Seized command of Kalaman's forces while [[Marshal Nestra Vendri|Vendri]] was away, marching troops to Steelsprings against her wishes ([[Session 10 (7-27)|Session 10]])
+- Lost his son in the fighting at Steelsprings ([[Session 10 (7-27)|Session 10]])
+- Returned to Kalaman to find [[Marshal Nestra Vendri|Vendri]] furious with him over the losses ([[Session 10 (7-27)|Session 10]])
 
 ---
 
@@ -40,3 +43,4 @@ Vessa and Bakaris's son.
 - Attended [[Ispin Greenshield|Ispin]]'s reception at the Brass Crab ([[Session 1 (4-13)|Session 1]])
 - Challenged the evacuation plan at the village circle meeting alongside his father ([[Session 3 (4-27)|Session 3]])
 - Disembarked quickly at [[Kalaman]] and disappeared into the city with the family ([[Session 5 (5-18)|Session 5]])
+- Presumed killed at Steelsprings — the son [[Vessa Drayne and family#Bakaris|Bakaris]] mentions losing in the fighting is not named outright, but he's the only son on record ([[Session 10 (7-27)|Session 10]])

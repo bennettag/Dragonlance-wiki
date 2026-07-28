@@ -16,3 +16,4 @@ A power like Soth bows to no Dragon Highlord and serves no army's chain of comma
 
 - A scroll found on the sivak [[Draconians|draconian]] that had been impersonating [[Oflyn Vinhollow]] read: "Lord Soth is ready" — the first direct evidence of his involvement in the war's northern front ([[content/4. Notes/Session Notes/Session 8 (6-15)|Session 8]])
 - Books and notes in the sivak's hideout at Tinker's Row show a deep interest in Lord Soth. Somewhere beneath [[Kalaman]], in the catacombs, lies his tomb ([[Session 8 (Downtime)|Session 8 Downtime]])
+- A knight in Solamnic colors, [[Karradoc]], appeared at Kalaman's War Room after the council was slaughtered, warning that the Knights of Solamnia were en route before being cut down. A possessing spirit tore free of his body and flew downward — presumably toward Soth ([[Session 10 (7-27)|Session 10]])
